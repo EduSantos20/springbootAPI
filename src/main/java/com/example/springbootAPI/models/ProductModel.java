@@ -1,4 +1,4 @@
-package com.example.springboot.models;
+package com.example.springbootAPI.models;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
